@@ -38,9 +38,9 @@ The Open Science Forum will hold virtual events the **third Wednesday of every m
 [![Register](https://img.shields.io/badge/register-ZOOM-brightgreen)](https://meetmsk.zoom.us/webinar/register/WN_VTbYckS0RUWw67N8TrS23Q)
 <a name="2022-dec"></a><br>
 
-*Moderator:* [**Peter Sjö**](https://dndi.org/our-people/peter-sjo/) ([DNDi](http://dndi.org))
-* **[Neeliga Malavige, DNDi](https://dndi.org/our-people/neelika-malavige/) ([DNDi](http://dndi.org))**: *Dengue: Disease, patients, and treatments*
-* **[Pei-Yong Shi, UTMB BMB](https://www.utmb.edu/idd/administration/institute-director) ([The UTMB-Novartis Alliance for Pandemic Preparedness (UNAPP)](https://www.utmb.edu/news/article/utmb-news/2022/05/18/utmb-drug-discovery-partnership-awarded-56-million-grant))**: *Dengue (TBD)*
+*Moderator:* [**Peter Sjö**](https://dndi.org/our-people/peter-sjo/) ([Drugs for Neglected Disease Initiative](http://dndi.org))
+* **[Neeliga Malavige, DNDi](https://dndi.org/our-people/neelika-malavige/) ([Drugs for Neglected Disease Initiative](http://dndi.org))**: *Dengue: Disease, patients, and treatments*
+* **[Pei-Yong Shi, UTMB BMB](https://www.utmb.edu/idd/administration/institute-director) ([The UTMB-Novartis Alliance for Pandemic Preparedness (UNAPP)](https://www.utmb.edu/news/article/utmb-news/2022/05/18/utmb-drug-discovery-partnership-awarded-56-million-grant))**: *Dengue Drug Discovery*
 
 **Wed 18 Jan 2022**: *8.00A PT / 11.00A ET / 4.00P UK (GMT+1) / 5.00P Geneva (GMT+2)*  <a name="2023-jan"></a>
 * TBD
